@@ -1,4 +1,7 @@
-package com.homework10;
+package com.homework10.controller;
+
+import com.homework10.model.State;
+import com.homework10.model.Water;
 
 public class SolidState implements State {
     public void doAction(Water water) {
