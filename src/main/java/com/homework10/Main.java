@@ -1,6 +1,6 @@
-package com.homework10;
+package main.java.com.homework10;
 
-import com.homework10.controller.ProgramRunner;
+import main.java.com.homework10.controller.ProgramRunner;
 
 public class Main {
     public static void main(String[] args) {

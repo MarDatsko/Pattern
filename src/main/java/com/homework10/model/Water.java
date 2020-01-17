@@ -1,4 +1,4 @@
-package com.homework10.model;
+package main.java.com.homework10.model;
 
 public class Water {
     private State state;
